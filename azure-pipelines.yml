@@ -9,6 +9,7 @@ trigger:
 variables:
   serviceConnectionToAzure: connection-to-PetClinic-rg
   appName: PetClinicDemo
+  
 
 pool:
   vmImage: 'ubuntu-latest'
